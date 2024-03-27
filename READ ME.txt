@@ -1,0 +1,3 @@
+"Estranged.py is an updated version of the main script with an attempt at physics I added a few years ago.  I'm honestly not sure if it even runs
+
+also, please forgive me for the way I'm using github.  I have no idea how this website works"
